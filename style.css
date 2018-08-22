@@ -1,66 +1,66 @@
 @font-face {
    font-family: Audiowide;
-   src: url(media/fonts/Audiowide/Audiowide-Regular.ttf);
+   src: url(Audiowide/Audiowide-Regular.ttf);
 }
 @font-face {
    font-family: Bubbler One;
-   src: url(media/fonts/Bubbler_One/BubblerOne-Regular.ttf);
+   src: url(Bubbler_One/BubblerOne-Regular.ttf);
 }
 @font-face {
    font-family: Bungee Hairline;
-   src: url(media/fonts/Bungee_Hairline/BungeeHairline-Regular.ttf);
+   src: url(Bungee_Hairline/BungeeHairline-Regular.ttf);
 }
 @font-face {
    font-family: Bungee Inline;
-   src: url(media/fonts/Bungee_Inline/BungeeInline-Regular.ttf);
+   src: url(Bungee_Inline/BungeeInline-Regular.ttf);
 }
 @font-face {
    font-family: Codystar Light;
-   src: url(media/fonts/Codystar/Codystar-Light.ttf);
+   src: url(Codystar/Codystar-Light.ttf);
 }
 @font-face {
    font-family: Codystar Regular;
-   src: url(media/fonts/Codystar/Codystar-Regular.ttf);
+   src: url(Codystar/Codystar-Regular.ttf);
 }
 @font-face {
    font-family: Julius Sans One;
-   src: url(media/fonts/Julius_Sans_One/JuliusSansOne-Regular.ttf);
+   src: url(Julius_Sans_One/JuliusSansOne-Regular.ttf);
 }
 @font-face {
    font-family: Megrim;
-   src: url(media/fonts/Megrim/Megrim.ttf);
+   src: url(Megrim/Megrim.ttf);
 }
 @font-face {
    font-family: Monoton;
-   src: url(media/fonts/Monoton/Monoton-Regular.ttf);
+   src: url(Monoton/Monoton-Regular.ttf);
 }
 @font-face {
    font-family: Orbitron Black;
-   src: url(media/fonts/Orbitron/Orbitron-Black.ttf);
+   src: url(Orbitron/Orbitron-Black.ttf);
 }
 @font-face {
    font-family: Orbitron Bold;
-   src: url(media/fonts/Orbitron/Orbitron-Bold.ttf);
+   src: url(Orbitron/Orbitron-Bold.ttf);
 }
 @font-face {
    font-family: Orbitron Medium;
-   src: url(media/fonts/Orbitron/Orbitron-Medium.ttf);
+   src: url(Orbitron/Orbitron-Medium.ttf);
 }
 @font-face {
    font-family: Orbitron Regular;
-   src: url(media/fonts/Orbitron/Orbitron-Regular.ttf);
+   src: url(Orbitron/Orbitron-Regular.ttf);
 }
 @font-face {
    font-family: Plaster;
-   src: url(media/fonts/Plaster/Plaster-Regular.ttf);
+   src: url(Plaster/Plaster-Regular.ttf);
 }
 @font-face {
    font-family: Pompiere;
-   src: url(media/fonts/Pompiere/Pompiere-Regular.ttf);
+   src: url(Pompiere/Pompiere-Regular.ttf);
 }
 @font-face {
    font-family: Wire One;
-   src: url(media/fonts/Wire_One/WireOne.ttf);
+   src: url(Wire_One/WireOne.ttf);
 }
 
 header {
