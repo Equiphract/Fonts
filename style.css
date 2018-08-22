@@ -1,64 +1,141 @@
 @font-face {
    font-family: Audiowide;
-   src: url(media/fonts/Audiowide/Audiowide-Regular.ttf);
+   src: url(Audiowide/Audiowide-Regular.ttf);
 }
 @font-face {
    font-family: Bubbler_One;
-   src: url(media/fonts/Bubbler_One/BubblerOne-Regular.ttf);
+   src: url(Bubbler_One/BubblerOne-Regular.ttf);
 }
 @font-face {
    font-family: Bungee_Hairline;
-   src: url(media/fonts/Bungee_Hairline/BungeeHairline-Regular.ttf);
+   src: url(Bungee_Hairline/BungeeHairline-Regular.ttf);
 }
 @font-face {
    font-family: Bungee_Inline;
-   src: url(media/fonts/Bungee_Inline/BungeeInline-Regular.ttf);
+   src: url(Bungee_Inline/BungeeInline-Regular.ttf);
 }
 @font-face {
    font-family: Codystar_Light;
-   src: url(media/fonts/Codystar/Codystar-Light.ttf);
+   src: url(Codystar/Codystar-Light.ttf);
 }
 @font-face {
    font-family: Codystar_Regular;
-   src: url(media/fonts/Codystar/Codystar-Regular.ttf);
+   src: url(Codystar/Codystar-Regular.ttf);
 }
 @font-face {
    font-family: Julius_Sans_One;
-   src: url(media/fonts/Julius_Sans_One/JuliusSansOne-Regular.ttf);
+   src: url(Julius_Sans_One/JuliusSansOne-Regular.ttf);
 }
 @font-face {
    font-family: Megrim;
-   src: url(media/fonts/Megrim/Megrim.ttf);
+   src: url(Megrim/Megrim.ttf);
 }
 @font-face {
    font-family: Monoton;
-   src: url(media/fonts/Monoton/Monoton-Regular.ttf);
+   src: url(Monoton/Monoton-Regular.ttf);
 }
 @font-face {
    font-family: Orbitron_Black;
-   src: url(media/fonts/Orbitron/Orbitron-Black.ttf);
+   src: url(Orbitron/Orbitron-Black.ttf);
 }
 @font-face {
    font-family: Orbitron_Bold;
-   src: url(media/fonts/Orbitron/Orbitron-Bold.ttf);
+   src: url(Orbitron/Orbitron-Bold.ttf);
 }
 @font-face {
    font-family: Orbitron_Medium;
-   src: url(media/fonts/Orbitron/Orbitron-Medium.ttf);
+   src: url(Orbitron/Orbitron-Medium.ttf);
 }
 @font-face {
    font-family: Orbitron_Regular;
-   src: url(media/fonts/Orbitron/Orbitron-Regular.ttf);
+   src: url(Orbitron/Orbitron-Regular.ttf);
 }
 @font-face {
    font-family: Plaster;
-   src: url(media/fonts/Plaster/Plaster-Regular.ttf);
+   src: url(Plaster/Plaster-Regular.ttf);
 }
 @font-face {
    font-family: Pompiere;
-   src: url(media/fonts/Pompiere/Pompiere-Regular.ttf);
+   src: url(Pompiere/Pompiere-Regular.ttf);
 }
 @font-face {
    font-family: Wire_One;
-   src: url(media/fonts/Wire_One/WireOne.ttf);
+   src: url(Wire_One/WireOne.ttf);
+}
+header {
+	text-align: center;
+	font-family: Courier New, Helvetica, Arial;
+	font-size: 1.5em;
+}
+
+main {
+	text-align: center;
+}
+
+#n1,
+#n2,
+#n3,
+#n4,
+#n5,
+#n6,
+#n7,
+#n8,
+#n9,
+#n10,
+#n11,
+#n12,
+#n13,
+#n14,
+#n15,
+#n16 {
+	font-size: 2em;
+}
+
+#n1 {
+	font-family: Audiowide;
+}
+#n2 {
+	font-family: Bubbler_One;
+}
+#n3 {
+	font-family: Bungee_Hairline;
+}
+#n4 {
+	font-family: Bungee_Inline;
+}
+#n5 {
+	font-family: Codystar_Light;
+}
+#n6 {
+	font-family: Codystar_Regular;
+}
+#n7 {
+	font-family: Julius_Sans_One;
+}
+#n8 {
+	font-family: Megrim;
+}
+#n9 {
+	font-family: Monoton;
+}
+#n10 {
+	font-family: Orbitron_Black;
+}
+#n11 {
+	font-family: Orbitron_Bold;
+}
+#n12 {
+	font-family: Orbitron_Medium;
+}
+#n13 {
+	font-family: Orbitron_Regular;
+}
+#n14 {
+	font-family: Plaster;
+}
+#n15 {
+	font-family: Pompiere;
+}
+#n16 {
+	font-family: Wire_One;
 }
